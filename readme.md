@@ -4,7 +4,7 @@
 
 # 📌 ** Project Link 👇** 
 
-**[Developer_Home_Landing_page](https://phenomenal-otter-00cdc8.netlify.app/)**
+**[Business_Home_Landing_page](https://phenomenal-otter-00cdc8.netlify.app/)**
 
 # 📌 This Project is given in **"JavaScript Full stack Web Development Bootcamp"** by iNeuron.
 
