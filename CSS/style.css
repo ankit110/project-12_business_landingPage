@@ -1136,8 +1136,20 @@ hr {
   margin-right: 4em;
 }
 
+.content-head {
+  margin-bottom: 1em;
+}
 .content-items>p {
   color: #646161;
+  line-height: 1.8;
+}
+
+.content>.footer-logo>.social-media>svg>rect:hover {
+  cursor: pointer;
+}
+
+.content-items p:hover {
+  cursor: pointer;
 }
 
 @media (max-width: 900px) {
